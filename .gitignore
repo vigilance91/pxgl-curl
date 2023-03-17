@@ -10,7 +10,6 @@ Doxyfile
 /node_modules
 /vendor
 /_tmp
-/_src
 /_tests
 /_output
 /latex
